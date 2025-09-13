@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ruleset name="PSR-1-2">
+  <description>PSR-1 és PSR-2 szabványok érvényesítése</description>
+  <file>src</file>
+  <file>tests</file>
+  <rule ref="PSR1"/>
+  <rule ref="PSR2"/>
+</ruleset>
